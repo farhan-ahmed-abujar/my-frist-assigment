@@ -1,0 +1,74 @@
+  
+  .skill{
+    align-items: center;
+    justify-content: space-between;
+  }
+.header{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; /* 131.944% */
+}
+.happy{
+    text-align: center;
+    font-size: 32px;
+}
+.farhan{
+    color: deeppink;
+    text-align: center;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.abujar{
+    text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+color: blueviolet;
+}
+.ashik{
+    text-align: center;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+color: blueviolet;
+}
+.shakib{
+   width: 100%;
+   margin: auto;
+   display: flex;
+   justify-content: center;
+}
+
+.New-year{
+    width: 1600px;
+height: 7335px;
+background: #FFF;
+}
+.abujar{
+    text-align: center;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.frist-header{
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    display: flex;
+    border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00);
+  
+}
+
+
+

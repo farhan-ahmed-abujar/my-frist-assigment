@@ -32,6 +32,57 @@ font-weight: 500;
 line-height: normal;
 color: blueviolet;
 }
+.pro{
+    color:red;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+letter-spacing: 7.04px;
+width: 630.327px;
+height: 174.827px;
+flex-shrink: 0;
+}
+.max{
+    width: 684.327px;
+height: 59.6px;
+flex-shrink: 0;
+}
+.now{
+    width: 101.127px;
+height: 23.84px;
+flex-shrink: 0;
+color: royalblue;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.group-70{
+    display: flex;
+width: 314.015px;
+height: 461.564px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
+.section-img{
+    width: 1296px;
+height: 596px;
+flex-shrink: 0;
+fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.group-photo{
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+
+    margin: auto;
+}
 .ashik{
     text-align: center;
 font-size: 48px;
@@ -64,9 +115,11 @@ line-height: normal;
     width: 1320px;
     height: 600px;
     border-radius: 16px;
-    display: flex;
-    border-radius: 16px;
 background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00);
+margin: auto;
+display: flex;
+background-repeat: no-repeat;
+align-items: center;
   
 }
 
